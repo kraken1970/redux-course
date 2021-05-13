@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.app button {
+  margin: 10px;
+  background-color: navy;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+
